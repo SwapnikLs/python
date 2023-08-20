@@ -1,0 +1,6 @@
+Name=input("what is your name? : ")
+Age=input("How old are you? : ")
+Nationality=input("Nationality? : ")
+Hobby=input("Hobbies? : ")
+output="Your name is {}. You are {} years old. You are an {} and you like {}".format(Name,Age,Nationality,Hobby)
+print(output)
