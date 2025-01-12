@@ -12,5 +12,7 @@ if index!=-1:
     print(f"the element {x} is present at index {index} ")
 else:
     print(f"the element {x} is not present in the array")
+print("HOlys h")
+
 
     
