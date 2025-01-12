@@ -19,3 +19,4 @@ l.headval.nextval=e1
 e1.nextval=e2
 e2.nextval=e3
 l.listprint()
+print(l)
