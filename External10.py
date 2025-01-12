@@ -14,8 +14,10 @@ l=Linked_list()
 l.headval=node("sunday")
 e1=node("monday")
 e2=node("tuesday")
-e3=node("wednesday")
+e3=node("Thursday")
 l.headval.nextval=e1
 e1.nextval=e2
 e2.nextval=e3
 l.listprint()
+print(l)
+print('helloworld')
